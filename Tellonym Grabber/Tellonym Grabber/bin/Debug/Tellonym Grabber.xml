@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tellonym Grabber
+</name>
+</assembly>
+<members>
+<member name="T:Tellonym_Grabber.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Tellonym_Grabber.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Tellonym_Grabber.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Tellonym_Grabber.Form1">
+ instagram @404.erroz
+github : https://github.com/itserrozz
+</member>
+</members>
+</doc>

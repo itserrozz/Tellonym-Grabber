@@ -1,0 +1,12 @@
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym Grabber.vbprojAssemblyReference.cache
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym_Grabber.Form1.resources
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym_Grabber.Resources.resources
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym Grabber.vbproj.GenerateResource.cache
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym Grabber.vbproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\bin\Debug\Tellonym Grabber.exe.config
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\bin\Debug\Tellonym Grabber.exe
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\bin\Debug\Tellonym Grabber.pdb
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\bin\Debug\Tellonym Grabber.xml
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym Grabber.exe
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym Grabber.xml
+C:\Users\User1\source\repos\Tellonym Grabber\Tellonym Grabber\obj\Debug\Tellonym Grabber.pdb
